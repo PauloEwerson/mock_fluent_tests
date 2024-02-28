@@ -1,0 +1,12 @@
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/bin/Debug/net8.0/Exercicio.deps.json
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/bin/Debug/net8.0/Exercicio.dll
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/bin/Debug/net8.0/Exercicio.pdb
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.AssemblyInfoInputs.cache
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.AssemblyInfo.cs
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.csproj.CoreCompileInputs.cache
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.sourcelink.json
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.dll
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/refint/Exercicio.dll
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/Exercicio.pdb
+/media/ewerson/127884E57884C8C51/Cursos/ADA/Modulo6/mock_fluent_tests/Exercicio/obj/Debug/net8.0/ref/Exercicio.dll
